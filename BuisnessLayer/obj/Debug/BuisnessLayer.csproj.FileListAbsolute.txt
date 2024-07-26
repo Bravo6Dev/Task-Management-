@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\Projects\Desktop_App\TaskManagementSystem\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\DELL\Desktop\Projects\Desktop_App\TaskManagementSystem\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\DELL\Desktop\Projects\Desktop_App\TaskManagementSystem\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Projects\Desktop_App\TaskManagementSystem\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Projects\Desktop_App\TaskManagementSystem\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\DELL\Desktop\Projects\Desktop_App\TaskManagementSystem\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\DELL\Desktop\Projects\Desktop_App\TaskManagementSystem\BuisnessLayer\bin\Debug\DataLayer.dll
+C:\Users\DELL\Desktop\Projects\Desktop_App\TaskManagementSystem\BuisnessLayer\bin\Debug\DataLayer.pdb
+C:\Users\DELL\Desktop\Projects\Desktop_App\TaskManagementSystem\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CopyComplete
